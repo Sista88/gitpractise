@@ -11,8 +11,3 @@ def subtraction(a, b):
 def multiply(a, b):
     mul = a * b
     return mul
-
-
-def division(a, b):
-    div = a / b
-    return div
