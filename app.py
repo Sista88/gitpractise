@@ -20,4 +20,4 @@ def division(a, b):
 def adi(a, b):
     add = a + b
     return add
->>>>>>> developera
+
