@@ -16,9 +16,6 @@ def multiply(a, b):
 def division(a, b):
     div = a / b
     return div
-<<<<<<< HEAD
-=======
-
 
 def adi(a, b):
     add = a + b
